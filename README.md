@@ -6,7 +6,7 @@
 ## 🧑‍🏫 Volunteer-Taught Courses
 
 - [CS106A: Code in Place – Stanford University](https://digitalcredential.stanford.edu/check/BF89152F6E34DEB3C62341BF6B7A9773FC0BEA3449762CBEC259077FEFC1F632SlVZOGEwTUI4MDdnZFh2Y3hwbHRMdmJnczg4U2g0K2hrUllxN0taclpuVC9PWXZE)  
-  *Served as a Section Leader teaching Python fundamentals to beginner students.*
+  *Served as a Section Leader (Spring 2025), teaching Python fundamentals to global students.*
 - [Python for Absolute Beginners](https://github.com/abubakar2029/Python-Volunteer-Training.git)  
   *Designed and delivered a volunteer training course for new programmers.*
 - [English Test Preparation Course](https://docs.google.com/spreadsheets/d/1utjZ2UN5hOI7KhylekVldX_RYV1U-8io2o5VLspsJsE/edit?usp=sharing)  
@@ -17,42 +17,42 @@
 ## 🎤 Delivered Workshops & Webinars
 
 - [Meta Hacker Cup – Info Session](https://youtu.be/PaRx6nxlf6I)  
-  Introduced students of my university to *Meta’s global coding competition structure and strategy.*
+  Introduced students of my university to *Meta’s global coding competition.*
 
 ---
 
 ## 🌍 International Hackathons
 
 - **Mentor Match AI** – [GitHub](https://github.com/abubakar2029/MentorMatch.AI) • [Submission](https://devpost.com/software/mentormatch-ai-powered-career-mentorship-finder)  
-  *AI-powered mentorship platform for personalized career guidance.*
+  *A platform that allows mentees to connect with potential mentors (who are willing to share their experiences and guide juniors).*
 
 - **LeetCode Agent** – [GitHub](https://github.com/abubakar2029/LeetCode-Agent-Backend) • [Submission](https://lablab.ai/event/internet-of-agents/peka-coders/leetcode-agent)  
-  *Backend for an agent that helps users solve LeetCode problems using AI.*
+  *An agent that analyzes your GitHub repo, recommends a daily problem, and automates the tasks.*
 
 - **Chat Market** – [GitHub](https://github.com/marksk1/chatmarket-mvp) • [Submission](https://lablab.ai/event/raise-your-hack/agentic-marketplace-prosus-track/chat-market)  
-  *Collaborative AI marketplace for connecting users with domain-specific agents.*
+  *An agent powered platform to buy and sell products*
 
 - **Green Scan** – [GitHub](https://github.com/abubakar2029/GreenScan-AI-Powered-Sustainable-Product-Recommender) • [Submission](https://devpost.com/software/eco-factor)  
   *AI recommender for sustainable, eco-friendly products.*
 
 - **GPT-5O (AMRRA)** – [GitHub](https://github.com/Leanstix/AMRRA) • [Submission](https://lablab.ai/event/co-creating-with-gpt-5/dreamers/amrra)  
-  *AI-powered analysis and reasoning system for real-world automation.*
+  *A mini AI research lab, a system that combines retrieval, structured extraction, experimentation, and judgment.*
 
 ---
 
 ## 💻 University & Personal Projects
 
 - **Nursery Management (Java – OOP)** – [GitHub](https://github.com/abubakar2029/Nursery-Management-OOP-Java.git)  
-  *Implements OOP concepts to develop a nursery record management.*
+  *Developed a nursery record management system implementing OOP principles*
+
+- **Relational Database for Multi-Seller Food App** – [GitHub](https://github.com/abubakar2029/FullStack_Food_App/tree/main/Database)  
+  *Developed a database schema design, SQL implementation, and diagrams for a multi-seller food delivery platform.*
+
+- **School Management System (C#)** – [GitHub](https://github.com/abubakar2029/School-Managment-System-C-.git)  
+  *Developed a desktop application for managing student and staff records (semester project).*
 
 - **Jungle Scout Website Clone** – [GitHub](https://github.com/abubakar2029/Jungle-Scout-Website)  
   *Front-end clone of a product analytics platform.*
-
-- **Relational Database for Multi-Seller Food App** – [GitHub](https://github.com/abubakar2029/FullStack_Food_App/tree/main/Database)  
-  *Database schema design, SQL implementation, and diagrams for a multi-seller food delivery platform.*
-
-- **School Management System (C#)** – [GitHub](https://github.com/abubakar2029/School-Managment-System-C-.git)  
-  *Desktop application for managing student and staff records.*
 
 ## 🧑‍🔬 About Me
 
