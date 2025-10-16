@@ -1,6 +1,5 @@
 <h3 align="right">🎓 PhD Aspirant</h3>
 
----
 <h2 align="center">Software Engineer | Machine Learning | Data Science</h2>
 
 ## 🧑‍🏫 Volunteer-Taught Courses
@@ -12,14 +11,12 @@
 - [English Test Preparation Course](https://docs.google.com/spreadsheets/d/1utjZ2UN5hOI7KhylekVldX_RYV1U-8io2o5VLspsJsE/edit?usp=sharing)  
   *Guided students preparing for the Duolingo English Test.*
 
----
 
 ## 🎤 Delivered Workshops & Webinars
 
 - [Meta Hacker Cup – Info Session](https://youtu.be/PaRx6nxlf6I)  
   Introduced students of my university to *Meta’s global coding competition.*
 
----
 
 ## 🌍 International Hackathons
 
@@ -38,7 +35,6 @@
 - **GPT-5O (AMRRA)** – [GitHub](https://github.com/Leanstix/AMRRA) • [Submission](https://lablab.ai/event/co-creating-with-gpt-5/dreamers/amrra)  
   *A mini AI research lab, a system that combines retrieval, structured extraction, experimentation, and judgment.*
 
----
 
 ## 💻 University & Personal Projects
 
@@ -58,7 +54,7 @@
 
 My motive is to contribute to autonomous systems and projects that enhance human well-being. I am interested in Machine Learning, AI, and Data Science.
 
-✅ Alongside my technical skills, I completed a 3-month long on-site career development fellowship by Stanford University in Pakistan where I strengthened skills in time management, communication, teamwork, and presentation
+✅ Alongside my technical skills, I completed a 3-month long on-site **career development** fellowship by Stanford University in Pakistan where I strengthened skills in time management, communication, teamwork, and presentation
 <p align="left">
   <a href="https://linkedin.com/in/muhammadabu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
