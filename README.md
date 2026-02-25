@@ -1,79 +1,156 @@
-<h3 align="right">🎓 PhD Aspirant</h3>
-
----
-<h2 align="center">Software Engineer | Machine Learning | Data Science</h2>
-
-## 🧑‍🏫 Volunteer-Taught Courses
-
-- [CS106A: Code in Place – Stanford University](https://digitalcredential.stanford.edu/check/BF89152F6E34DEB3C62341BF6B7A9773FC0BEA3449762CBEC259077FEFC1F632SlVZOGEwTUI4MDdnZFh2Y3hwbHRMdmJnczg4U2g0K2hrUllxN0taclpuVC9PWXZE)  
-  *Served as a Section Leader (Spring 2025), teaching Python fundamentals to global students.*
-- [Python for Absolute Beginners](https://github.com/abubakar2029/Python-Volunteer-Training.git)  
-  *Designed and delivered a volunteer training course for new programmers.*
-- [English Test Preparation Course](https://docs.google.com/spreadsheets/d/1utjZ2UN5hOI7KhylekVldX_RYV1U-8io2o5VLspsJsE/edit?usp=sharing)  
-  *Guided students preparing for the Duolingo English Test.*
+<h2 align="center"> Next.js | Django | Agentic AI Systems </h2>
 
 ---
 
-## 🎤 Delivered Workshops & Webinars
+## About Me / Education
 
-- [Meta Hacker Cup – Info Session](https://youtu.be/PaRx6nxlf6I)  
-  Introduced students of my university to *Meta’s global coding competition.*
+I strive to write clean, scalable code and deliver projects in a timely manner.
 
----
+- Solved **200+ LeetCode problems** to strengthen problem-solving ability  
+- Completed **48 hours onsite** and **160 hours online** at **Career Development Fellowship Training (Amal Academy)**  
+- **C1 English Proficiency** — Duolingo **130 / 160** (~ IELTS 7.0)
 
-## 🌍 International Hackathons
-
-- **Mentor Match AI** – [GitHub](https://github.com/abubakar2029/MentorMatch.AI) • [Submission](https://devpost.com/software/mentormatch-ai-powered-career-mentorship-finder)  
-  *A platform that allows mentees to connect with potential mentors (who are willing to share their experiences and guide juniors).*
-
-- **LeetCode Agent** – [GitHub](https://github.com/abubakar2029/LeetCode-Agent-Backend) • [Submission](https://lablab.ai/event/internet-of-agents/peka-coders/leetcode-agent)  
-  *An agent that analyzes your GitHub repo, recommends a daily problem, and automates the tasks.*
-
-- **Chat Market** – [GitHub](https://github.com/marksk1/chatmarket-mvp) • [Submission](https://lablab.ai/event/raise-your-hack/agentic-marketplace-prosus-track/chat-market)  
-  *An agent powered platform to buy and sell products*
-
-- **Green Scan** – [GitHub](https://github.com/abubakar2029/GreenScan-AI-Powered-Sustainable-Product-Recommender) • [Submission](https://devpost.com/software/eco-factor)  
-  *AI recommender for sustainable, eco-friendly products.*
-
-- **GPT-5O (AMRRA)** – [GitHub](https://github.com/Leanstix/AMRRA) • [Submission](https://lablab.ai/event/co-creating-with-gpt-5/dreamers/amrra)  
-  *A mini AI research lab, a system that combines retrieval, structured extraction, experimentation, and judgment.*
-
----
-
-## 💻 University & Personal Projects
-
-- **Nursery Management (Java – OOP)** – [GitHub](https://github.com/abubakar2029/Nursery-Management-OOP-Java.git)  
-  *Developed a nursery record management system implementing OOP principles*
-
-- **Relational Database for Multi-Seller Food App** – [GitHub](https://github.com/abubakar2029/FullStack_Food_App/tree/main/Database)  
-  *Developed a database schema design, SQL implementation, and diagrams for a multi-seller food delivery platform.*
-
-- **School Management System (C#)** – [GitHub](https://github.com/abubakar2029/School-Managment-System-C-.git)  
-  *Developed a desktop application for managing student and staff records (semester project).*
-
-- **Jungle Scout Website Clone** – [GitHub](https://github.com/abubakar2029/Jungle-Scout-Website)  
-  *Front-end clone of a product analytics platform.*
-
-## 🧑‍🔬 About Me
-
-My motive is to contribute to autonomous systems and projects that enhance human well-being. I am interested in Machine Learning, AI, and Data Science.
-
-✅ Alongside my technical skills, I completed a 3-month long on-site career development fellowship by Stanford University in Pakistan where I strengthened skills in time management, communication, teamwork, and presentation
-<p align="left">
-  <a href="https://linkedin.com/in/muhammadabu">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://leetcode.com/u/AbuBakar_2029/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-  <a href="https://lablab.ai/u/@muhammad_abubakar">
-    <img src="https://img.shields.io/badge/Lablab.ai-black?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDIgMC04LTMuNTgtOC04czMuNTgtOCA4LThzOCAzLjU4IDggOC0zLjU4IDgtOCA4eiIvPjxwYXRoIGQ9Ik0xMSAxMEg5djJoMnoiLz48cGF0aCBkPSJNMTUgMTBoLTJ2MmgyeiIvPjxwYXRoIGQ9Ik0xMiA2Yy0zLjMxIDAtNiAyLjY5LTYgNnMyLjY5IDYgNiA2IDYtMi42OSA2LTYtMi42OS02LTYtNnptMCAxMGMtMi4yMSAwLTQtMS43OS00LTRzMS43OS00IDQtNCA0IDEuNzkgNCA0LTEuNzkgNC00IDR6Ii8+PC9zdmc+" alt="Lablab.ai Badge"/>
-  </a>
-</p>
-
+### Let’s Connect
 
 <p align="center">
-  <img src="badges/25100.png" alt="LeetCode 100 Days Badge" height="90"/>
-  <img src="badges/stanford_cip.svg" alt="Stanford Code in Place Badge" height="90"/>
-  <img src="badges/det.jpeg" alt="Lablab.ai Hackathon Badge" height="90"/>
+  <a href="https://www.linkedin.com/in/muhammadabu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/923001234567?text=Hi%20Muhammad%2C%20I%20found%20you%20via%20GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+## 🚀 Nominated Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="./images/react+ts.png" style="border-radius-2px"/>
+</p>
+<h5>Mobile Responsive UI Clone</h5>
+
+Focused on layout precision, responsiveness, and component structure.
+
+**Project Link:** [View Repository](YOUR_PROJECT_LINK_HERE)
+**Code:** [View Repository](https://github.com/abubakar2029/Nursery-Management-OOP-Java.git)
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center"   >
+  <img src="./images/java+oop.png" style="border-radius-2px"/>
+</p>
+<h5>Object-Oriented System Design</h5>
+
+Analyzed System requirements, entities, and workflows of a Nursery Management.  
+Designed the system using strong Object-Oriented principles.
+
+
+**Code / Documentation:** [View Project](https://github.com/abubakar2029/School-Managment-System-C-.git)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<p align="left">
+  <img src="./images/relational_db_icon.png"/>
+</p>
+<h5>Relational Database Design</h5>
+
+
+Designed a structured relational database for a multi-seller food platform.  
+Documentated Schema with entity relationships and constraints.
+
+👉 **Code / Documentation:** [View Repository](https://github.com/abubakar2029/FullStack_Food_App/tree/main/Database)
+
+</td>
+
+<td width="50%" valign="top">
+<p align="left" style="max-width:180px; max-height:180px; display:block; margin:auto;">
+  <img src="./images/agent.png"/>
+</p>
+<h5>WhatsApp Agent with Conversation Context</h5>
+
+
+With a cost of <b>$22/month</b> this agent can support 900 or less customers.
+
+👉 **MVP Code:** [View Repository](YOUR_PROJECT_LINK_HERE)
+
+
+  
+</td>
+</tr>
+</table>
+
+<style>
+/* volunteer table full width and centered images */
+.vol-table { width:100%; border-collapse:collapse; }
+/* set column widths: 1st & 3rd 35%, 2nd 30% */
+.vol-table th, .vol-table td { border:1px solid #ddd; padding:8px; text-align:center; vertical-align:middle; }
+.vol-table th:nth-child(1), .vol-table td:nth-child(1),
+.vol-table th:nth-child(3), .vol-table td:nth-child(3) { width:37%; }
+.vol-table th:nth-child(2), .vol-table td:nth-child(2) { width:25%; }
+.vol-table td img { max-width:80px; max-height:80px; display:block; margin:auto; }
+</style>
+
+## 🎓 Volunteer Teaching
+
+<table class="vol-table">
+<thead>
+<tr>
+<th style="border:1px solid #ddd;padding:8px;background:#f2f2f2;">Program</th>
+<th style="border:1px solid #ddd;padding:8px;background:#f2f2f2;"></th>
+<th style="border:1px solid #ddd;padding:8px;background:#f2f2f2;">certificate/recordings</th>
+</tr>
+</thead>
+<tr>
+<td><b>CS106A:</b> Code in Place — Stanford University </td>
+<td>
+  <img src="./images/cip.png" />
+</td>
+<td><a href="https://digitalcredential.stanford.edu/check/BF89152F6E34DEB3C62341BF6B7A9773FC0BEA3449762CBEC259077FEFC1F632SlVZOGEwTUI4MDdnZFh2Y3hwbHRMdmJnczg4U2g0K2hrUllxN0taclpuVC9PWXZE">View Certificate</a>
+</td>
+</tr>
+<tr>
+<td>Python for Absolute Beginners</td>
+<td>
+  <img src="./images/python.png" />
+</td>
+<td><a href="https://github.com/abubakar2029/Python-Volunteer-Training.git">View Live recordings</a>
+</td>
+</tr>
+<tr>
+<td>English Test Preparation Course</td>
+<td>
+  <img src="./images/det (2).png" />
+</td>
+<td><a href="https://docs.google.com/spreadsheets/d/1utjZ2UN5hOI7KhylekVldX_RYV1U-8io2o5VLspsJsE/edit?usp=sharing">View Live recordings</a>
+</td>
+</tr>
+<tr>
+<td>Latest Trends in Technology</td>
+<td>
+  <img src="./images/uet.png" />
+</td>
+<td><a href="YOUR_CERTIFICATE_LINK_1">View Certificate</a>
+</td>
+</table>
+
+
+## 🧰 Nominated Tech Stack
+
+<p align="center">
+  <img src="./images/docker.png"/>
+  <img src="./images/dango-inner-2.webp"/>
+  <img src="./images/django.png"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-4B8BBE?style=for-the-badge"/>
+</p>
+
