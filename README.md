@@ -1,6 +1,5 @@
 <h2 align="center"> Next.js | Django | Agentic AI Systems </h2>
 
----
 
 ## About Me / Education
 
@@ -13,15 +12,14 @@ I strive to write clean, scalable code and deliver projects in a timely manner.
 ### Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammadabu/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammadabu/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wa.me/923001234567?text=Hi%20Muhammad%2C%20I%20found%20you%20via%20GitHub" target="_blank">
+  <a href="https://wa.me/923001234567?text=Hi%20Muhammad%2C%20I%20found%20you%20via%20GitHub" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
----
 
 ## 🚀 Nominated Projects
 
@@ -90,55 +88,47 @@ With a cost of <b>$22/month</b> this agent can support 900 or less customers.
 </tr>
 </table>
 
-<style>
-/* volunteer table full width and centered images */
-.vol-table { width:100%; border-collapse:collapse; }
-/* set column widths: 1st & 3rd 35%, 2nd 30% */
-.vol-table th, .vol-table td { border:1px solid #ddd; padding:8px; text-align:center; vertical-align:middle; }
-.vol-table th:nth-child(1), .vol-table td:nth-child(1),
-.vol-table th:nth-child(3), .vol-table td:nth-child(3) { width:37%; }
-.vol-table th:nth-child(2), .vol-table td:nth-child(2) { width:25%; }
-.vol-table td img { max-width:80px; max-height:80px; display:block; margin:auto; }
-</style>
 
 ## 🎓 Volunteer Teaching
 
-<table class="vol-table">
+<table style="width:100%;border-collapse:collapse;">
 <thead>
 <tr>
-<th style="border:1px solid #ddd;padding:8px;background:#f2f2f2;">Program</th>
-<th style="border:1px solid #ddd;padding:8px;background:#f2f2f2;"></th>
-<th style="border:1px solid #ddd;padding:8px;background:#f2f2f2;">certificate/recordings</th>
+<thead>
+<tr>
+<th style="border:1px solid #ddd;padding:8px;background:#f2f2f2;width:35%;">Program</th>
+<th style="border:1px solid #ddd;padding:8px;background:#f2f2f2;width:30%;"></th>
+<th style="border:1px solid #ddd;padding:8px;background:#f2f2f2;width:35%;">certificate/recordings</th>
 </tr>
 </thead>
 <tr>
 <td><b>CS106A:</b> Code in Place — Stanford University </td>
-<td>
-  <img src="./images/cip.png" />
+<td style="border:1px solid #ddd;padding:8px;width:30%;text-align:center;vertical-align:middle;">
+  <img src="./images/cip.png" style="max-width:80px;max-height:80px;display:block;margin:auto;" />
 </td>
 <td><a href="https://digitalcredential.stanford.edu/check/BF89152F6E34DEB3C62341BF6B7A9773FC0BEA3449762CBEC259077FEFC1F632SlVZOGEwTUI4MDdnZFh2Y3hwbHRMdmJnczg4U2g0K2hrUllxN0taclpuVC9PWXZE">View Certificate</a>
 </td>
 </tr>
 <tr>
 <td>Python for Absolute Beginners</td>
-<td>
-  <img src="./images/python.png" />
+<td style="border:1px solid #ddd;padding:8px;width:30%;text-align:center;vertical-align:middle;">
+  <img src="./images/python.png" style="max-width:80px;max-height:80px;display:block;margin:auto;" />
 </td>
 <td><a href="https://github.com/abubakar2029/Python-Volunteer-Training.git">View Live recordings</a>
 </td>
 </tr>
 <tr>
 <td>English Test Preparation Course</td>
-<td>
-  <img src="./images/det (2).png" />
+<td style="border:1px solid #ddd;padding:8px;width:30%;text-align:center;vertical-align:middle;">
+  <img src="./images/det (2).png" style="max-width:80px;max-height:80px;display:block;margin:auto;" />
 </td>
 <td><a href="https://docs.google.com/spreadsheets/d/1utjZ2UN5hOI7KhylekVldX_RYV1U-8io2o5VLspsJsE/edit?usp=sharing">View Live recordings</a>
 </td>
 </tr>
 <tr>
 <td>Latest Trends in Technology</td>
-<td>
-  <img src="./images/uet.png" />
+<td style="border:1px solid #ddd;padding:8px;width:30%;text-align:center;vertical-align:middle;">
+  <img src="./images/uet.png" style="max-width:80px;max-height:80px;display:block;margin:auto;" />
 </td>
 <td><a href="YOUR_CERTIFICATE_LINK_1">View Certificate</a>
 </td>
@@ -148,9 +138,9 @@ With a cost of <b>$22/month</b> this agent can support 900 or less customers.
 ## 🧰 Nominated Tech Stack
 
 <p align="center">
-  <img src="./images/docker.png"/>
-  <img src="./images/dango-inner-2.webp"/>
-  <img src="./images/django.png"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-4B8BBE?style=for-the-badge"/>
+  <img src="./images/docker.png" style="max-width:100px;max-height:100px;margin:0 4px;"/>
+  <img src="./images/dango-inner-2.webp" style="max-width:100px;max-height:100px;margin:0 4px;"/>
+  <img src="./images/django.png" style="max-width:100px;max-height:100px;margin:0 4px;"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-4B8BBE?style=for-the-badge" style="max-width:100px;max-height:100px;margin:0 4px;"/>
 </p>
 
