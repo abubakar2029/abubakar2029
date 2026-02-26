@@ -28,13 +28,13 @@ I strive to write clean, scalable code and deliver projects in a timely manner.
 <td width="50%" valign="top">
 
 <p align="center">
-  <img src="./images/react+ts.png" style="border-radius-2px"/>
+  <img src="./images/react+ts.png" width="240"/>
 </p>
 <h5>Mobile Responsive UI Clone</h5>
 
 Focused on layout precision, responsiveness, and component structure.
 
-**Project Link:** [View Repository](YOUR_PROJECT_LINK_HERE)
+**Project Link:** [View Live](https://jungle-scout-website-u17b.vercel.app/) </br>
 **Code:** [View Repository](https://github.com/abubakar2029/Nursery-Management-OOP-Java.git)
 
 </td>
@@ -42,7 +42,7 @@ Focused on layout precision, responsiveness, and component structure.
 <td width="50%" valign="top">
 
 <p align="center"   >
-  <img src="./images/java+oop.png" style="border-radius-2px"/>
+  <img src="./images/java+oop.png" width="240"/>
 </p>
 <h5>Object-Oriented System Design</h5>
 
@@ -58,8 +58,8 @@ Designed the system using strong Object-Oriented principles.
 <tr>
 <td width="50%" valign="top">
 
-<p align="left">
-  <img src="./images/relational_db_icon.png"/>
+<p align="center">
+  <img src="./images/relational_db_icon.png" width="190"/>
 </p>
 <h5>Relational Database Design</h5>
 
@@ -80,7 +80,7 @@ Documentated Schema with entity relationships and constraints.
 
 With a cost of <b>$22/month</b> this agent can support 900 or less customers.
 
-👉 **MVP Code:** [View Repository](YOUR_PROJECT_LINK_HERE)
+👉 **MVP Code:** [View Repository](https://github.com/abubakar2029/whatsapp_bot.git)
 
 
   
@@ -91,14 +91,14 @@ With a cost of <b>$22/month</b> this agent can support 900 or less customers.
 
 ## 🎓 Volunteer Teaching
 
-<table>
+<table width="100%">
 <thead>
 <tr>
 <thead>
 <tr>
-<th width="38%">Program</th>
-<th width="25%"></th>
-<th width="37%">certificate/recordings</th>
+<th>Program</th>
+<th width="20%"></th>
+<th width="32%">certificate/recordings</th>
 </tr>
 </thead>
 <tr>
@@ -138,9 +138,10 @@ With a cost of <b>$22/month</b> this agent can support 900 or less customers.
 ## 🧰 Nominated Tech Stack
 
 <p align="center">
-  <img src="./images/docker.png" width="90"/>
+  <img src="./images/docker.png" width="90"/> &ensp;
   <img src="./images/dango-inner-2.webp" width="90"/>
-  <img src="./images/django.png" width="90"/>
+  &ensp;
+  <img src="./images/django.png" width="90"/>&ensp;
   <img src="https://img.shields.io/badge/Agentic_AI-4B8BBE?style=for-the-badge" style="max-width:100px;max-height:100px;margin:0 4px;"/>
 </p>
 
