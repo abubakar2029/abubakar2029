@@ -72,8 +72,8 @@ Documentated Schema with entity relationships and constraints.
 </td>
 
 <td width="50%" valign="top">
-<p align="left" style="max-width:180px; max-height:180px; display:block; margin:auto;">
-  <img src="./images/agent.png"/>
+<p align="center">
+  <img src="./images/agent.png" width="190"/>
 </p>
 <h5>WhatsApp Agent with Conversation Context</h5>
 
@@ -91,20 +91,20 @@ With a cost of <b>$22/month</b> this agent can support 900 or less customers.
 
 ## 🎓 Volunteer Teaching
 
-<table style="width:100%;border-collapse:collapse;">
+<table>
 <thead>
 <tr>
 <thead>
 <tr>
-<th style="border:1px solid #ddd;padding:8px;background:#f2f2f2;width:35%;">Program</th>
-<th style="border:1px solid #ddd;padding:8px;background:#f2f2f2;width:30%;"></th>
-<th style="border:1px solid #ddd;padding:8px;background:#f2f2f2;width:35%;">certificate/recordings</th>
+<th width="38%">Program</th>
+<th width="25%"></th>
+<th width="37%">certificate/recordings</th>
 </tr>
 </thead>
 <tr>
 <td><b>CS106A:</b> Code in Place — Stanford University </td>
 <td style="border:1px solid #ddd;padding:8px;width:30%;text-align:center;vertical-align:middle;">
-  <img src="./images/cip.png" style="max-width:80px;max-height:80px;display:block;margin:auto;" />
+  <img src="./images/cip.png" width="70" />
 </td>
 <td><a href="https://digitalcredential.stanford.edu/check/BF89152F6E34DEB3C62341BF6B7A9773FC0BEA3449762CBEC259077FEFC1F632SlVZOGEwTUI4MDdnZFh2Y3hwbHRMdmJnczg4U2g0K2hrUllxN0taclpuVC9PWXZE">View Certificate</a>
 </td>
@@ -112,7 +112,7 @@ With a cost of <b>$22/month</b> this agent can support 900 or less customers.
 <tr>
 <td>Python for Absolute Beginners</td>
 <td style="border:1px solid #ddd;padding:8px;width:30%;text-align:center;vertical-align:middle;">
-  <img src="./images/python.png" style="max-width:80px;max-height:80px;display:block;margin:auto;" />
+  <img src="./images/python.png" width="70" />
 </td>
 <td><a href="https://github.com/abubakar2029/Python-Volunteer-Training.git">View Live recordings</a>
 </td>
@@ -120,7 +120,7 @@ With a cost of <b>$22/month</b> this agent can support 900 or less customers.
 <tr>
 <td>English Test Preparation Course</td>
 <td style="border:1px solid #ddd;padding:8px;width:30%;text-align:center;vertical-align:middle;">
-  <img src="./images/det (2).png" style="max-width:80px;max-height:80px;display:block;margin:auto;" />
+  <img src="./images/det (2).png" width="70" />
 </td>
 <td><a href="https://docs.google.com/spreadsheets/d/1utjZ2UN5hOI7KhylekVldX_RYV1U-8io2o5VLspsJsE/edit?usp=sharing">View Live recordings</a>
 </td>
@@ -128,7 +128,7 @@ With a cost of <b>$22/month</b> this agent can support 900 or less customers.
 <tr>
 <td>Latest Trends in Technology</td>
 <td style="border:1px solid #ddd;padding:8px;width:30%;text-align:center;vertical-align:middle;">
-  <img src="./images/uet.png" style="max-width:80px;max-height:80px;display:block;margin:auto;" />
+  <img src="./images/uet.png" width="70" />
 </td>
 <td><a href="YOUR_CERTIFICATE_LINK_1">View Certificate</a>
 </td>
@@ -138,9 +138,9 @@ With a cost of <b>$22/month</b> this agent can support 900 or less customers.
 ## 🧰 Nominated Tech Stack
 
 <p align="center">
-  <img src="./images/docker.png" style="max-width:100px;max-height:100px;margin:0 4px;"/>
-  <img src="./images/dango-inner-2.webp" style="max-width:100px;max-height:100px;margin:0 4px;"/>
-  <img src="./images/django.png" style="max-width:100px;max-height:100px;margin:0 4px;"/>
+  <img src="./images/docker.png" width="90"/>
+  <img src="./images/dango-inner-2.webp" width="90"/>
+  <img src="./images/django.png" width="90"/>
   <img src="https://img.shields.io/badge/Agentic_AI-4B8BBE?style=for-the-badge" style="max-width:100px;max-height:100px;margin:0 4px;"/>
 </p>
 
