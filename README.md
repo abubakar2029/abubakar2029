@@ -6,7 +6,7 @@
 I strive to write clean, scalable code and deliver projects in a timely manner.
 
 - Solved **200+ LeetCode problems** to strengthen problem-solving ability  
-- Completed **48 hours onsite** and **160 hours online** at **Career Development Fellowship Training (Amal Academy)**  
+- Completed **72 hours onsite** and **160 hours online** at **Career Development Fellowship Training (Amal Academy)**  
 - **C1 English Proficiency** — Duolingo **130 / 160** (~ IELTS 7.0)
 
 ### Let’s Connect
