@@ -1,4 +1,4 @@
-<h2 align="center"> Next.js | Django | Agentic AI Systems </h2>
+<h2 align="center"> Java | Spring Boot | React.js </h2>
 
 
 ## About Me / Education
@@ -6,7 +6,7 @@
 I strive to write clean, scalable code and deliver projects in a timely manner.
 
 - Solved **200+ LeetCode problems** to strengthen problem-solving ability  
-- Completed **72 hours onsite** and **160 hours online** at **Career Development Fellowship Training (Amal Academy)**  
+- Invested **72 hours onsite** and **160 hours online** at **Career Development Fellowship Training (Amal Academy)**  
 - **C1 English Proficiency** — Duolingo **130 / 160** (~ IELTS 7.0)
 
 ### Let’s Connect
